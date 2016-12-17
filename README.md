@@ -6,4 +6,4 @@
 * implemented graphics for sprites, characters, and maps through online images and modifying them on Photoshop
 
 ## Main Menu
-![Main Menu]()
+![Main Menu](https://github.com/chelleccarlyle/PGVWJavaFXGame/blob/master/main-menu.png)
