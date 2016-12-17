@@ -7,3 +7,29 @@
 
 ## Main Menu
 ![Main Menu](https://github.com/chelleccarlyle/PGVWJavaFXGame/blob/master/main-menu.png)
+
+## Level 1
+![Level 1](https://github.com/chelleccarlyle/PGVWJavaFXGame/blob/master/level1.png)
+
+> Play as Dustin and fight off bullies in the forest.
+
+## Power-Up
+![Power-Up](https://github.com/chelleccarlyle/PGVWJavaFXGame/blob/master/power-up.png)
+
+> Increase your speed from Eleven!
+
+##Government Facility Level
+![Govt Facility](https://github.com/chelleccarlyle/PGVWJavaFXGame/blob/master/govt-facility.png)
+
+> Go past the guards to enter the portal to the Upside Down.
+
+## Boss Level
+![Boss Level](https://github.com/chelleccarlyle/PGVWJavaFXGame/blob/master/final-level.png)
+
+> Defeat the Demogorgon and its minions to find and save Will!
+
+## Win!
+![Win](https://github.com/chelleccarlyle/PGVWJavaFXGame/blob/master/win-game.png)
+
+> You found Will!
+
